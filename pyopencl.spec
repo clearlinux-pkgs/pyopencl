@@ -4,7 +4,7 @@
 #
 Name     : pyopencl
 Version  : 2016.2.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/pyopencl/pyopencl/archive/v2016.2.1.tar.gz
 Source0  : https://github.com/pyopencl/pyopencl/archive/v2016.2.1.tar.gz
 Summary  : No detailed summary available
